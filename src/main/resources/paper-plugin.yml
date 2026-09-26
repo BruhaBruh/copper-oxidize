@@ -1,0 +1,11 @@
+name: Oxidize
+description: $description
+version: '${version}'
+
+main: ru.bruhabruh.oxidize.Oxidize
+bootstrapper: ru.bruhabruh.oxidize.OxidizeBootstrap
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ BruhaBruh ]
+website: bruhabruh4.t.me
